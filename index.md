@@ -1,5 +1,5 @@
-# This is Jessica's Website
+# This is Jessica's Website 
 
-here is an image of an apple 
+Here is something that I've done this week
 
-![Picture of Apple Logo](https://www.discountpartysupplies.com.au/media/catalog/product/cache/bee498d0887183cc5ae5d15ff8c9c20c/f/r/frudeaf03.jpg)
+![Picture of work](file:///Users/jessicanguyen/Desktop/Screen%20Shot%202020-11-26%20at%202.30.25%20pm.png) 
